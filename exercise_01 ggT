@@ -8,7 +8,6 @@ void ggtVersion_01(int _X, int _Y)
 
 	while (rest)
 	{
-
 		rest = (_X % _Y);
 
 		_X = _Y;
