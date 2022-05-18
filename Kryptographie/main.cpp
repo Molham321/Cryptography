@@ -42,10 +42,9 @@ int main()
 
 	// Übung 05
 	// Test 1
-	//RSA(13, 23);
+	RSA(13, 23);
 
 	// Test 2
-
 	//std::cout << SquareAndMultiplyAlgorithmus(27, 8, 55) << std::endl;
 
 	return 0;
