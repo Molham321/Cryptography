@@ -1,15 +1,2 @@
-﻿  rsa.cpp
-C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Kryptographie\rsa.cpp(23,28): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
-C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Kryptographie\rsa.cpp(23,23): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
-C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Kryptographie\rsa.cpp(26,22): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
-C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Kryptographie\rsa.cpp(26,17): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
-C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Kryptographie\rsa.cpp(30,27): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
-C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Kryptographie\rsa.cpp(30,22): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
-C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Kryptographie\rsa.cpp(39,47): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
-C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Kryptographie\rsa.cpp(39,42): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
-C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Kryptographie\rsa.cpp(39,37): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
-C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Kryptographie\rsa.cpp(40,47): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
-C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Kryptographie\rsa.cpp(40,42): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
-C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Kryptographie\rsa.cpp(40,37): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
-C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Kryptographie\rsa.cpp(56,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+﻿  main.cpp
   Kryptographie.vcxproj -> C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\Kryptographie\code\Kryptographie\Debug\Kryptographie.exe
